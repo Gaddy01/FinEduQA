@@ -1,0 +1,6 @@
+{
+    "semantic_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "semantic_threshold": 0.4,
+    "scope_threshold": -0.2,
+    "top_k": 5
+}
