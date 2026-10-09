@@ -1,0 +1,21 @@
+category,question,accepted,domain_score,scope_margin
+Non-finance,What is the difference between mitosis and meiosis?,False,0.22493008,0.058225382
+Non-finance,How can I sort a Python list alphabetically?,False,0.16974768,-0.06271823
+Non-finance,Why do earthquakes occur?,False,0.2296569,0.049393408
+Non-finance,How do vaccines help the immune system?,False,0.17484978,0.07687661
+Non-finance,What temperature should I use to bake a cake?,False,0.25002494,-0.026029676
+Non-finance,How does a combustion engine work?,False,0.24566463,0.07857121
+Non-finance,What are the main causes of climate change?,False,0.28282595,0.037698388
+Non-finance,How do I create a database table in SQL?,False,0.2260241,0.015613392
+Non-finance,Why do humans need sleep?,False,0.22664447,0.082933865
+Non-finance,How does gravity affect objects on Earth?,False,0.24784854,0.048763484
+Out-of-scope finance,Which technology stock is most likely to outperform the market next month?,False,0.49001712,-0.25964832
+Out-of-scope finance,How should I construct a delta-neutral options portfolio?,False,0.3564303,-0.18204035
+Out-of-scope finance,How do I calculate the weighted average cost of capital for an acquisition?,False,0.4503261,-0.27374122
+Out-of-scope finance,Should I use leverage to trade cryptocurrency futures?,False,0.48275456,-0.32459962
+Out-of-scope finance,How do I build a discounted cash flow valuation model for a public company?,True,0.46886793,-0.14917591
+Out-of-scope finance,Which forex pair should I trade this week?,False,0.4143343,-0.20277788
+Out-of-scope finance,How should a corporation structure an international tax avoidance strategy?,False,0.40944576,-0.5089616
+Out-of-scope finance,What gamma scalping strategy should an options trader use?,False,0.4487392,-0.28443104
+Out-of-scope finance,How do I model synergies in a merger and acquisition transaction?,False,0.3434767,-0.2655947
+Out-of-scope finance,Should I short a company's shares before its earnings announcement?,False,0.45053118,-0.3899656

@@ -1,0 +1,5 @@
+Metric,Rate
+In-domain test acceptance,0.98
+Overall OOD rejection,0.95
+Non-finance rejection,1.0
+Advanced-finance OOD rejection,0.9
