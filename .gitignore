@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+*.env
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Model weights
+*.bin
+*.safetensors
+*.ckpt
+*.pth
+
+# Archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
