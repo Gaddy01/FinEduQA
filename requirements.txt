@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+datasets>=4.0,<5.0
+torch
+transformers==5.16.1
+accelerate
+sentencepiece
+rouge-score
+tqdm
+huggingface_hub>=1.23.0,<2.0
+gradio==6.26.0
+safetensors
